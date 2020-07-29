@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Estudante de Ciências da Computação, com experiencia em desenvolvimento Web. Sempre se atualizando com as novas tecnologias. 
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
