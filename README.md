@@ -7,6 +7,8 @@ Estudante de Ciências da Computação, com experiencia em desenvolvimento Web. 
 Projetos:
 [VideoFlix: https://video-flix.vercel.app]
 
+[Be-The-Hero: https://be-the-hero-git-master.fullbarbosa.vercel.app/]
+
 
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
