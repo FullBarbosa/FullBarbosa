@@ -7,9 +7,9 @@ Estudante de Ciências da Computação, com experiencia em desenvolvimento Web. 
 📫Email: diibarbosa22@gmail.com
 
 ⚡Projetos:
-[VideoFlix: https://video-flix.vercel.app]
-[Be-The-Hero: https://be-the-hero-git-master.fullbarbosa.vercel.app/]
-[EstudosIF:https://if-estudos.vercel.app/#]
+[VideoFlix: https://video-flix.vercel.app].
+[Be-The-Hero: https://be-the-hero-git-master.fullbarbosa.vercel.app/].
+[EstudosIF:https://if-estudos.vercel.app/#].
 ⚡
 
 
