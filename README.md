@@ -1,4 +1,4 @@
-![FullBarbosa github stats](https://github-readme-stats.vercel.app/api?username=FullBarbosa&show_icons=true&theme=radical)
+![FullBarbosa github stats](https://github-readme-stats.vercel.app/api?username=FullBarbosa&show_icons=true&theme=default)
 
 
 # Hi there 👋😄
