@@ -5,7 +5,7 @@ Olá, meu nome é Diogo Barbosa, e estou sempre curioso em novas tecnologias. Me
 Estudante de Ciências da Computação, com experiencia em desenvolvimento Web. Sempre se atualizando com as novas tecnologias.
 
 
-! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = FullBarbosa )] (https://github.com/FullBarbosa/github-readme-stats)
+! [Estatísticas do github de FullBarbosa] (https://github-readme-stats.vercel.app/api ? Username = FullBarbosa & show_icons = true & theme = radical )
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
