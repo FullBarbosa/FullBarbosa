@@ -1,7 +1,7 @@
 ![FullBarbosa github stats](https://github-readme-stats.vercel.app/api?username=FullBarbosa&show_icons=true&theme=radical)
 
 
-### Hi there 👋😄
+# Hi there 👋😄
 
 Olá, meu nome é Diogo Barbosa, e estou sempre curioso em novas tecnologias. Me atualizar em novas ferramentas me motiva e deixa ligado no 220v sempre, tenho muito amor pelo Front-End e desenvolver aplicações Web é simplismente incrivel. 
 
