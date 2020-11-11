@@ -1,11 +1,9 @@
 ![FullBarbosa Dash Board](https://github-readme-stats.vercel.app/api?username=FullBarbosa&hide=contribs,prs) [![Ferramentas](https://github-readme-stats.vercel.app/api/top-langs/?username=FullBarbosa&layout=compact)](https://github.com/FullBarbosa/github-readme-stats)
 
 # Hi there 👋😄
-Olá, meu nome é Diogo Barbosa, e estou sempre curioso em novas tecnologias. Me atualizar em novas ferramentas me motiva e deixa ligado no 220v sempre, tenho muito amor pelo Front-End e desenvolver aplicações Web é simplismente incrivel. 
+Hello, my name is Diogo Barbosa, and I'm always curious about new technologies. Upgrading to new tools motivates me and keeps me connected to 220v always, I have a lot of love for the Front End and developing Web applications is simply incredible.
 
-Estudante de Ciências da Computação, com experiencia em desenvolvimento Web. Sempre se atualizando com as novas tecnologias.
-
-
+Computer Science student, with experience in Web development. Always updating with new technologies.
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
