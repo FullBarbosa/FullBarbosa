@@ -1,4 +1,3 @@
-![FullBarbosa github stats](https://github-readme-stats.vercel.app/api?username=FullBarbosa&show_icons=true&theme=default)
 
 
 # Hi there 👋😄
@@ -7,7 +6,7 @@ Olá, meu nome é Diogo Barbosa, e estou sempre curioso em novas tecnologias. Me
 
 Estudante de Ciências da Computação, com experiencia em desenvolvimento Web. Sempre se atualizando com as novas tecnologias.
 
-<font color="green"> Some green text </font>
+![FullBarbosa github stats](https://github-readme-stats.vercel.app/api?username=FullBarbosa&show_icons=true&theme=default)
 
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
