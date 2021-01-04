@@ -6,8 +6,7 @@
     <li>💡 Front-End Developer</li>
     <li>📚 Estudante De Ciências da Computação - ( FPB ) </li>
   </ul>
-  
-  
+ 
   <h2> Atuações e Interesses. 🤔</h2>
    <ul>
     <li>⚡ Atualmente trabalhando em projetos pessoais. </li>
@@ -16,7 +15,7 @@
     <li>😄 Conhecimento em Metodológias agéis.</li>
    </ul>
   
-  <h2> Tecnlogias que utilizo. 🤓</h2>
+  <h2> Tecnologias que utilizo. 🤓</h2>
     <ul>
       <li>⚡ React </li>
       <li>👾 ReactNative </li>
