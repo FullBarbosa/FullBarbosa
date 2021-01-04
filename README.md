@@ -2,9 +2,9 @@
 
 <h2> Sobre Mim. 😄</h2>
   <ul> 
-    <li> Freelancer</li>
-    <li> Front-End Developer</li>
-    <li> Estudante De Ciências da Computação - ( FPB ) </li>
+    <li>💼 Freelancer</li>
+    <li>💡 Front-End Developer</li>
+    <li>📚 Estudante De Ciências da Computação - ( FPB ) </li>
   </ul>
   
   
