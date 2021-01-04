@@ -20,7 +20,6 @@
   <h2> Stats. ⭐</h2>
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullBarbosa&theme=radical&show_icons=truee&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/FullBarbosa)
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FullBarbosa&theme=radical&show_icons=truee)
   
   <h2> Contato. 📢</h2>
   
