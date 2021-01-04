@@ -20,7 +20,7 @@
   
   <h2> Stats. ⭐</h2>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullBarbosa&langs_count=8)](https://github.com/anuraghazra&theme=radical/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullBarbosa&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
   
   
 <!--
