@@ -3,8 +3,6 @@
 Hello, my name is Diogo Barbosa, and I'm always curious about new technologies. Upgrading to new tools motivates me and keeps me connected to 220v always, I have a lot of love for the Front End and developing Web applications is simply incredible.
 
 Computer Science student, with experience in Web development. Always updating with new technologies.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullBarbosa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
