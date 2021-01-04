@@ -1,20 +1,28 @@
 <h1> Diogo Barbosa. </h1>
 
-<h2> Sobre Mim. 😄 </h2>
+<h2> Sobre Mim. 😄</h2>
   <ul> 
-    <li>Freelancer</li>
+    <li> Freelancer</li>
     <li> Front-End Developer</li>
     <li> Estudante De Ciências da Computação - ( FPB ) </li>
   </ul>
   
   
-  <h2> Atuações e Interesses. </h2>
+  <h2> Atuações e Interesses. 🤔</h2>
    <ul>
-    <li> ⚡ Atualmente trabalhando em projetos pessoais | Freelancer. </li>
-    <li>🚀 Estudando ferramentas de desenvolvimento FrontEnd - React, RactNative, Vue, Angular.</li>
+    <li>⚡ Atualmente trabalhando em projetos pessoais. </li>
+    <li>🚀 Estudando ferramentas de desenvolvimento FrontEnd e Apis Rest.</li>
     <li>👯 Me interesso para participar em projetos de desenvolvimento de aplicações Web.</li>
-    <li>😄 Conhecimento em Metodológias agéis | Scrum</li>
+    <li>😄 Conhecimento em Metodológias agéis.</li>
    </ul>
+  
+  <h2> Tecnlogias que utilizo. 🤓</h2>
+    <ul>
+      <li>⚡ React </li>
+      <li>👾 ReactNative </li>
+      <li>🐋 Docker </li>
+      <li>🌱 MongoDB</li>
+    </ul>
   
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
