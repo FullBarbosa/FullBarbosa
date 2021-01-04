@@ -1,8 +1,15 @@
-# Diogo Barbosa
-## Hi there 👋😄
+<h1> Diogo Barbosa. </h1>
+
+<h2> Sobre Mim. 😄 </h2>
+  <ul> 
+    <li>Freelancer</li>
+    <li> Front-End Developer</li>
+    <li> Estudante De Ciências da COmputação - ( FPB ) </li>
+  </ul>
+  
+  
 Hello, my name is Diogo Barbosa, and I'm always curious about new technologies. Upgrading to new tools motivates me and keeps me connected to 220v always, I have a lot of love for the Front End and developing Web applications is simply incredible.
 
-Computer Science student, with experience in Web development. Always updating with new technologies.
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
