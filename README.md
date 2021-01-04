@@ -1,5 +1,7 @@
 <h1> Diogo Barbosa. </h1>
 
+<a target="_blank" href="mailto:diibarbosa22@gmail.com.com?subject=Hello%20again"><img src="https://img.shields.io/badge/Email-Gmail-red" alt="ShieldGmail"/> </a>
+
 <h2> Sobre Mim. 😄</h2>
   <ul> 
     <li>💼 Freelancer</li>
@@ -22,6 +24,7 @@
       <li>🐋 Docker </li>
       <li>🌱 MongoDB</li>
     </ul>
+  
   
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
