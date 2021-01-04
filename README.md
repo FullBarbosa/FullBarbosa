@@ -9,6 +9,9 @@
   
   
   <h2> Algo Mais </h2>
+   <ul>
+    <li> ⚡ Atualmente trabalhando em projetos pessoais| Freelancer </li>
+    <li>🚀 Estudando ferramentas de desenvolvimento FrontEnd - React, RactNative, Vue, Angular</li>
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
