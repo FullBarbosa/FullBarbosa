@@ -8,10 +8,14 @@
   </ul>
   
   
-  <h2> Algo Mais </h2>
+  <h2> Atuações e Interesses. </h2>
    <ul>
-    <li> ⚡ Atualmente trabalhando em projetos pessoais| Freelancer </li>
-    <li>🚀 Estudando ferramentas de desenvolvimento FrontEnd - React, RactNative, Vue, Angular</li>
+    <li> ⚡ Atualmente trabalhando em projetos pessoais | Freelancer. </li>
+    <li>🚀 Estudando ferramentas de desenvolvimento FrontEnd - React, RactNative, Vue, Angular.</li>
+    <li>👯 Me intereço para participar em projetos de desenvolvimento de aplicações Web.</li>
+    <li>😄 Conhecimento em Metodológias agéis | Scrum</li>
+   </ul>
+  
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
