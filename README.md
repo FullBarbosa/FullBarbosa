@@ -18,13 +18,6 @@
     <li>😄 Conhecimento em Metodológias agéis.</li>
    </ul>
   
-  <h2> Tecnologias que utilizo. 🤓</h2>
-    <ul>
-      <li>⚡ React </li>
-      <li>👾 ReactNative </li>
-      <li>🐋 Docker </li>
-      <li>🌱 MongoDB</li>
-    </ul>
   
   
 <!--
