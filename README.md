@@ -3,6 +3,8 @@
 Hello, my name is Diogo Barbosa, and I'm always curious about new technologies. Upgrading to new tools motivates me and keeps me connected to 220v always, I have a lot of love for the Front End and developing Web applications is simply incredible.
 
 Computer Science student, with experience in Web development. Always updating with new technologies.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dradical_icons=true)
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
