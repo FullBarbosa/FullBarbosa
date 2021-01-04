@@ -4,7 +4,7 @@ Hello, my name is Diogo Barbosa, and I'm always curious about new technologies. 
 
 Computer Science student, with experience in Web development. Always updating with new technologies.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dradical_icons=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FullBarbosa)](https://github.com/FullBarbosa)
 <!--
 **FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
