@@ -21,7 +21,7 @@
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullBarbosa&theme=radical&show_icons=truee&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/FullBarbosa)
   
-  <h2> Contato. 📢</h2>
+  <h2> Contato. 📢</h2> 
   
   <a target="_blank" href="mailto:diibarbosa22@gmail.com.com?subject=Hello%20again"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ShieldGmail"/> </a>
 <a target="_blank" href="https://www.linkedin.com/in/diogobarbosa22/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ShieldLinkd"/> </a>
