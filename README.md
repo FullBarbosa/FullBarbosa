@@ -1,44 +1,29 @@
-<h1> Diogo Barbosa. </h1>
-
-
-
-<h2> Sobre Mim. 😄</h2>
-  <ul> 
-    <li>💼 Freelancer</li>
-    <li>💡 Front-End Developer</li>
-    <li>📚 Estudante De Ciências da Computação - ( FPB ) </li>
-  </ul>
+## Olá sou Diogo Barbosa
+ <div>
+  <a href="https://github.com/FullBarbosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FullBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullBarbosa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Diogo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Diogo-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/next-original.svg">
+  <img align="center" alt="Diogo-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/angular-original.svg">
+  <img align="center" alt="Diogo-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/bootstrap-original.svg">
+  <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <h2> Atuações e Interesses. 🤔</h2>
-   <ul>
-    <li>⚡ Atualmente trabalhando em projetos pessoais. </li>
-    <li>🚀 Estudando ferramentas de desenvolvimento FrontEnd e Apis Rest.</li>
-    <li>👯 Me interesso para participar em projetos de desenvolvimento de aplicações Web.</li>
-    <li>😄 Conhecimento em Metodológias agéis.</li>
-   </ul>
+</div>
   
-  <h2> Estatísticas. ⭐</h2>
-   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullBarbosa&theme=radical&show_icons=truee&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/FullBarbosa) 
-  
-  <h2> Contato. 📢</h2> 
-  
-  <a target="_blank" href="mailto:diibarbosa22@gmail.com.com?subject=Hello%20again"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ShieldGmail"/> </a>
-<a target="_blank" href="https://www.linkedin.com/in/diogobarbosa22/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ShieldLinkd"/> </a>
-  
-<!--
-**FullBarbosa/FullBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
---> 
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/diibarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:diibarbosa22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diogobarbosa22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/FullBarbosa/FullBarbosa/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
