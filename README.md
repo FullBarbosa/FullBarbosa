@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/diogobarbosa22/" alt="Instagram">
+  <a href="https://www.instagram.com/diibarbosa/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/diibarbosa/"/></a>
   
   <a href="https://www.linkedin.com/in/diogobarbosa22/" alt="Linkedin">
