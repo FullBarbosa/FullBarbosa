@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  👨‍💻 Habilidades: <strong>HTML, CSS, JavaScript, NodeJS, ReactJS, React Native, Angular 2+, Java e SpringBoot.</strong>
+  👨‍💻 Habilidades: <strong>HTML, CSS, JavaScript, NodeJS, ReactJS, React Native, Angular 2+, Java and SpringBoot.</strong>
 </p>
 
 <p align="left">
-  🚀 Ferramentas: <strong>VSCode, Terminal, Git and GitHub.</strong>
+  🚀 Ferramentas: <strong>VSCode, Terminal, Docker, Git and GitHub.</strong>
 </p>
 
 
